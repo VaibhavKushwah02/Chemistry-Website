@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+    <title>Document</title>
+    <style>
+        *{
+            background-color: black;
+        }
+        hr.one {
+            height: 5px;
+            border: 2px solid black;
+            /*border-radius: 10px;*/
+            background: linear-gradient(to left, blue ,red);
+
+        }
+        hr.three {
+            height: 1px;
+            border: 20px solid black;
+            /*border-radius: 10px;*/
+            background: linear-gradient(to left, blue ,red);
+
+        }
+        h1{
+            color: white;
+        }
+    </style>
+    
+</head>
+<body>
+    <img src="image/hydrogen.jpg" alt="" height="630" width="900" >
+    <hr class="one">
+    <h1>&Eta;<sub>(Hydrogen)</sub> &lbrke; 1.00784&lbbrk;g/mol&rbbrk; &rbrke; (Other Nonmetal) </h1>
+    <hr class="two">
+    <!-------------------------------------------------overview------------------------------------------------------->
+    <h1>&#10051; Overview</h1>
+    <hr class="two">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Latin name:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hydrogenium</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English name:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hydrogen</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Year discovered:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1766</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CAS number:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CAS1333-74-0</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Discovered by:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Henry Cavendish</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cost per 100 grams:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12 USD</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;Hydrogen is a chemical element with chemical symbol H and atomic number 1. With an atomic weight of 1.00794u ,hygrogen is the lightest element on the periodic table . Its monoactomiv form(H) is the most abundant chemical substance in the Universe, constituting roughtly 75% of all baryonic mass.</h1>
+    <hr class="two">
+    <!---------------------------------------------˚C Properties--------------------------------------------------->
+    <h1>&ring;C Properties</h1>
+    <hr class="two">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Atomic number:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Atomic weight:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.00784(g/mol)</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Density:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0.0000899(g/cm<sup>3</sup>)</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Melting point:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-259.14˚C = -434.45˚F = 14.01K</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boiling point:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-252.87˚C = -423.17˚F = 20.28K</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phase:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gas&nbsp;<sub>&#9729;</sub></h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Valence:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Period:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Group:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IA</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Block:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;s-block</h1>
+    <hr class="two">
+    <!---------------------------------------------Atomic properties------------------------------------------------>
+    <h1>&#9883; Atomic properties</h1>
+    <hr class="two">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Electronic configuration:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1s<sup>1</sup></h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oxidation states:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-1,+1</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ion charge:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H<sup>+</sup>, H<sup>-</sup></h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The ionisation potential of an atom:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13.53(eV)</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Atomic radius:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;53(pm)</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Covalent radius:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;38(pm)</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Van der Waals radius:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;120(pm)</h1>
+    <hr class="two">
+    <!------------------------------------------------------Reactivity----------------------------------------------------------->
+    <h1>✨Reactivity</h1>
+    <hr class="two">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Electronegativity:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Valence:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Electron affinity:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;72.8(kJ/mole)</h1>
+    <hr class="two">
+    <!----------------------------------------------------------Electromagnetic properties------------------------------------------------------->
+    <h1>&#8915; Electromagnetic properties</h1>
+    <hr class="two">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Electrical conductivity:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-----</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Electrical type:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-----</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Magnetic type:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diamagnetism</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Volume magnetic susceptibility:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-2.23*10<sup>-9</sup></h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mass magnetic susceptibility:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-2.48*10<sup>-8</sup></h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Molar magnetic susce:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-4.999*10<sup>-11</sup>(m<sup>3</sup>/mol)</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resistivity:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-----</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Superconducting point:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-----</h1>
+    <hr class="two">
+    <!--------------------------------------------------------------Grid parameters------------------------------------------------------->
+    <h1># Grid parameters</h1>
+    <hr class="two">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Crystal structure:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hexagonal</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grid parameters:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a=3.780&Aring;; c=6.167&Aring;</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attitude:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.631</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Debye temperature:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-163.15˚C = -261.67˚F = 110.0K</h1>
+    <hr class="two">
+    <!-------------------------------------------------------Prevalence--------------------------------------------------------------->
+    <h1>&#127757; Prevalance</h1>
+    <hr class="two">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universe contains "Hydrogen" at the rate of:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;75%</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sun contains "Hydrogen" at the rate of:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;75%</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oceans contains "Hydrogen" at the rate of:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11%</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Human body contains "Hydrogen" at the rate of:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10%</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Earth's crust consists of "Hydrogen" at the rate of:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0.15%</h1>
+    <hr class="three">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Meteorities consist "Hydrogen" at the rate of:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4%</h1>
+    <hr class="one">
+    
+    
+    
+</body>
+</html>

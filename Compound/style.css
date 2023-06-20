@@ -1,0 +1,164 @@
+/* ======= Master proprty for all selectors ======= */
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+/* ========== All element custom property ========== */
+html{
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+/* video background */
+#background-video {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+  }
+
+/* ========== All properties ========== */
+.main-container{
+    position: relative;
+    height: max-content;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: #791a1a; */
+
+}
+
+.boxModelWraper{
+    position: relative;
+    height: 90vh;
+    width: calc(100% - 1rem);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-container-wrap{
+    position: relative;
+    border: 1px solid #000;
+    height: calc(100% - 1rem);
+    width: calc(100% - 1rem);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-main-body{
+    position: relative;
+    height: 47rem;
+    width: 45rem;
+    transition: all ease-in .1s;
+    border: 1px solid #fff;
+    background-size: cover;
+    cursor: pointer;
+}
+
+.box-main-body .more-option{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, .8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all ease-in .3s;
+    display: none;
+}
+
+.more-option h2{
+    font-size: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(237, 233, 233, 0.852);
+}
+
+.onclicePart{
+    position: relative;
+    border: 1px solid #fff;
+    box-shadow: 1px 1px 3px #ff8800,
+                -1px -1px 3px #ff8800,
+                inset 1px 1px 3px #ff8800,
+                inset -1px -1px 3px #ff8800;
+    margin-left: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* height: 35rem;
+    width: 65rem; */
+    height: 0px;
+    width: 0px;
+    display: none;
+    transition: all ease-in .1s;
+}
+
+.onclicePart .onclickPart-wrap{
+    position: relative;
+    height: calc(100% - 3rem);
+    width: calc(100% - 3rem);
+}
+
+.main-container-wrap .header{
+    margin-bottom: 1rem;
+}
+
+.main-container-wrap .header h3{
+    font-size: 5rem;
+    color: #fff;
+    margin-bottom: 1rem;
+    width: max-content;
+    border-bottom: 1px solid #fff;
+    font-weight: 850;
+}
+
+.main-container-wrap .header span{
+    font-size: 2.5rem;
+    color: #d1d1d1;
+    width: max-content;
+    border-bottom: 1px solid #fff;
+    font-family: monospace;
+    font-weight: 600;
+}
+
+.main-container-wrap .mainBodyPara{
+    color: #d1d1d1;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2rem;
+    padding-top: 3rem;
+}
+
+
+/* ========== All hover effects ========== */
+.box-main-body:hover{
+    height: 50rem;
+    width: 48rem;
+    transform: rotate(-10deg);
+    transition: all ease-in .1s;
+}
+
+.box-main-body:hover .more-option{
+    display: flex;
+    transition: all ease-in .3s;
+}
+
+
+/* ======= img$ selector property for elament ======= */
+.img1{
+    background-image: url(img/1650965346523.jpg);
+}
+
+.img2{
+    background-image: url(img/1650965346523.jpg);
+}
